@@ -1,0 +1,3 @@
+// All string methods return a new value.
+
+// They do not change the original string.
